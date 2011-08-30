@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="match_parent"
+	android:layout_height="match_parent">
+	<TableLayout android:layout_width="match_parent"
+		android:stretchColumns="1" android:layout_height="wrap_content"
+		android:id="@+id/tableLayout1">
+		<TableRow android:id="@+id/tableRow1" android:layout_width="wrap_content"
+			android:layout_height="wrap_content">
+			<ImageView android:src="@drawable/icon"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:id="@+id/layout_listview_filter_catetory_imageview_icon"></ImageView>
+			<TextView android:text="TextView" android:textAppearance="?android:attr/textAppearanceLarge"
+				android:layout_height="wrap_content"
+				android:id="@+id/layout_listview_filter_catetory_textview_name"></TextView>
+			<CheckBox android:layout_width="wrap_content"
+				android:id="@+id/layout_listview_filter_catetory_checkbox_chosed"
+				android:layout_height="wrap_content"></CheckBox>
+		</TableRow>
+	</TableLayout>
+</LinearLayout>

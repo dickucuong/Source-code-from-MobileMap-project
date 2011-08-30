@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">S3 Mobile Map</string>
+
+	<string name="dialog_title_register">Register new user</string>
+    <string name="dialog_title_login">Login</string>
+
+	<string name="menu_register">Register...</string>
+
+	<string name="label_loginname">Login Name</string>
+	<string name="label_password">Password</string>
+    <string name="label_password_confirm">Re-Password</string>
+	<string name="label_login">Login</string>
+	<string name="label_cancel">Cancel</string>
+	<string name="label_register">Register</string>
+
+</resources>

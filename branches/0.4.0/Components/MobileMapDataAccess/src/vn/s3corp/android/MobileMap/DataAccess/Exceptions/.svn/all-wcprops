@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/Projects/EG-Projects/!svn/ver/121/MobileMap/Artifacts/SourceCode/branches/0.4.0/Components/MobileMapDataAccess/src/vn/s3corp/android/MobileMap/DataAccess/Exceptions
+END
+InvalidDataException.java
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/Projects/EG-Projects/!svn/ver/121/MobileMap/Artifacts/SourceCode/branches/0.4.0/Components/MobileMapDataAccess/src/vn/s3corp/android/MobileMap/DataAccess/Exceptions/InvalidDataException.java
+END
+DatabaseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/Projects/EG-Projects/!svn/ver/121/MobileMap/Artifacts/SourceCode/branches/0.4.0/Components/MobileMapDataAccess/src/vn/s3corp/android/MobileMap/DataAccess/Exceptions/DatabaseException.java
+END
+SystemException.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/Projects/EG-Projects/!svn/ver/121/MobileMap/Artifacts/SourceCode/branches/0.4.0/Components/MobileMapDataAccess/src/vn/s3corp/android/MobileMap/DataAccess/Exceptions/SystemException.java
+END
+DataAccessException.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/Projects/EG-Projects/!svn/ver/121/MobileMap/Artifacts/SourceCode/branches/0.4.0/Components/MobileMapDataAccess/src/vn/s3corp/android/MobileMap/DataAccess/Exceptions/DataAccessException.java
+END

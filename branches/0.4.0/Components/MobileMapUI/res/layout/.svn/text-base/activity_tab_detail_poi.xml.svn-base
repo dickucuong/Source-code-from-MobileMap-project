@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent">
+	<LinearLayout android:layout_height="wrap_content"
+		android:layout_width="match_parent" android:id="@+id/linearLayout1"
+		android:orientation="horizontal">
+		<ImageView android:id="@+id/imageView1" android:src="@drawable/icon"
+			android:layout_height="match_parent" android:layout_gravity="left"
+			android:layout_width="150dp"></ImageView>
+		<LinearLayout android:layout_height="wrap_content"
+			android:layout_width="match_parent" android:id="@+id/linearLayout2"
+			android:orientation="vertical">
+			<TextView android:text="Name"
+				android:id="@+id/activity_tab_detail_poi_label_name"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:textColor="#ffffff" android:textSize="24dp"></TextView>
+			<TextView android:text="Address"
+				android:id="@+id/activity_tab_detail_poi_label_address"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:textColor="#ffffff"></TextView>
+			<TextView android:text="Longtitude"
+				android:id="@+id/activity_tab_detail_poi_label_longtitude"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:textColor="#ffffff" android:visibility="gone"></TextView>
+			<TextView android:text="Latitude"
+				android:id="@+id/activity_tab_detail_poi_label_latitude"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:textColor="#ffffff" android:visibility="gone"></TextView>
+			<TextView android:text="Description"
+				android:id="@+id/activity_tab_detail_poi_label_description"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:textColor="#ffffff" android:maxLines="3"></TextView>
+			<RatingBar android:id="@+id/activity_tab_detail_poi_rating_poi"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:numStars="5" android:stepSize="1.0" android:rating="3"
+				style="?android:attr/ratingBarStyleSmall" android:layout_toRightOf="@+id/button_favorite"></RatingBar>
+		</LinearLayout>
+	</LinearLayout>
+	<ListView android:layout_width="fill_parent"
+		android:layout_height="fill_parent" android:id="@android:id/list" />
+</LinearLayout>
+

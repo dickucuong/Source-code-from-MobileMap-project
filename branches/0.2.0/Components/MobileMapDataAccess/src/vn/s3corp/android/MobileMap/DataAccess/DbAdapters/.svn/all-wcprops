@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/Projects/EG-Projects/!svn/ver/118/MobileMap/Artifacts/SourceCode/branches/0.2.0/Components/MobileMapDataAccess/src/vn/s3corp/android/MobileMap/DataAccess/DbAdapters
+END
+PoisDbAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/Projects/EG-Projects/!svn/ver/82/MobileMap/Artifacts/SourceCode/branches/0.2.0/Components/MobileMapDataAccess/src/vn/s3corp/android/MobileMap/DataAccess/DbAdapters/PoisDbAccess.java
+END
+Utility.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/Projects/EG-Projects/!svn/ver/65/MobileMap/Artifacts/SourceCode/branches/0.2.0/Components/MobileMapDataAccess/src/vn/s3corp/android/MobileMap/DataAccess/DbAdapters/Utility.java
+END
+LoginSessionDbAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/Projects/EG-Projects/!svn/ver/65/MobileMap/Artifacts/SourceCode/branches/0.2.0/Components/MobileMapDataAccess/src/vn/s3corp/android/MobileMap/DataAccess/DbAdapters/LoginSessionDbAccess.java
+END
+AddressesDbAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/Projects/EG-Projects/!svn/ver/79/MobileMap/Artifacts/SourceCode/branches/0.2.0/Components/MobileMapDataAccess/src/vn/s3corp/android/MobileMap/DataAccess/DbAdapters/AddressesDbAccess.java
+END
+DbOpenHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/Projects/EG-Projects/!svn/ver/118/MobileMap/Artifacts/SourceCode/branches/0.2.0/Components/MobileMapDataAccess/src/vn/s3corp/android/MobileMap/DataAccess/DbAdapters/DbOpenHelper.java
+END
+PoisCategoriesDbAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/Projects/EG-Projects/!svn/ver/83/MobileMap/Artifacts/SourceCode/branches/0.2.0/Components/MobileMapDataAccess/src/vn/s3corp/android/MobileMap/DataAccess/DbAdapters/PoisCategoriesDbAccess.java
+END
+UsersDbAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/Projects/EG-Projects/!svn/ver/82/MobileMap/Artifacts/SourceCode/branches/0.2.0/Components/MobileMapDataAccess/src/vn/s3corp/android/MobileMap/DataAccess/DbAdapters/UsersDbAccess.java
+END
+CategoriesDbAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/Projects/EG-Projects/!svn/ver/79/MobileMap/Artifacts/SourceCode/branches/0.2.0/Components/MobileMapDataAccess/src/vn/s3corp/android/MobileMap/DataAccess/DbAdapters/CategoriesDbAccess.java
+END

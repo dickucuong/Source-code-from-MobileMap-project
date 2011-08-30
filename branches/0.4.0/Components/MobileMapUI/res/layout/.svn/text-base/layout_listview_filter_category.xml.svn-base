@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@+id/LinearLayout1"
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="match_parent"
+	android:layout_height="match_parent">
+	<ImageView android:src="@drawable/icon" android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:id="@+id/layout_listview_filter_catetory_imageview_icon"></ImageView>
+	<TextView android:layout_width="wrap_content" android:text="TextView"
+		android:id="@+id/layout_listview_filter_catetory_textview_name"
+		android:layout_toRightOf="@+id/layout_listview_filter_catetory_imageview_icon"
+		android:layout_height="wrap_content"
+		android:layout_alignTop="@+id/layout_listview_filter_catetory_imageview_icon"
+		android:layout_alignBottom="@+id/layout_listview_filter_catetory_imageview_icon"
+		android:textAppearance="?android:attr/textAppearanceLarge"></TextView>
+	<CheckBox android:layout_width="wrap_content"
+		android:id="@+id/layout_listview_filter_catetory_checkbox_chosed"
+		android:layout_height="wrap_content" android:layout_alignParentRight="true"></CheckBox>
+</RelativeLayout>
