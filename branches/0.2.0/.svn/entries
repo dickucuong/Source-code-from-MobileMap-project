@@ -1,49 +1,0 @@
-10
-
-dir
-165
-https://svn.s3corp.com.vn:8443/Projects/EG-Projects/MobileMap/Artifacts/SourceCode/branches/0.2.0
-https://svn.s3corp.com.vn:8443/Projects/EG-Projects
-
-
-
-2011-08-15T15:51:22.710968Z
-118
-nam.tran
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4f48bc30-9c53-4051-ae9e-8c7c4fa4d3d2
-
-Solutions
-dir
-
-Deployment
-dir
-
-BuildDefs
-dir
-
-UnitTests
-dir
-
-SharedBinaries
-dir
-
-Components
-dir
-
-CodeAnalysis
-dir
-
